@@ -151,7 +151,7 @@ a:visited {
 
 .me-photo{
     grid-area: me-photo;
-    background: url('/Users/midorimonosoff/Desktop/try again/images/hello.JPG');
+    background: url('images/hello.JPG');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
