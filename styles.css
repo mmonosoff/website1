@@ -767,7 +767,6 @@ a:visited {
 
 .animation-link{
     grid-area: animation-link;
-    background: url('images/engulf.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
