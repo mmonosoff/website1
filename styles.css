@@ -614,8 +614,8 @@ a:visited {
     grid-template-areas: 
     ". nav nav nav ."
     ". cubes diffrnt word ."
-    ". maybe2 hmmm maybe1 ."
-    ". maybe3 maybe4 text5 ." 
+    ". maybe2 hmmm probs1 ."
+    ". probs3 probs4 probs5 ." 
     ". footer footer footer .";
 }
 
@@ -656,16 +656,16 @@ a:visited {
     border-radius: 10%;
 }
 
-.maybe1{
-    grid-area: maybe1;
+.probs1{
+    grid-area: probs1;
     background: url('images/Screen Shot 2022-05-19 at 8.14.07 PM.png');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
 }
 
-.maybe2{
-    grid-area: maybe2;
+.probs2{
+    grid-area: probs2;
     display: flex;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
@@ -673,24 +673,24 @@ a:visited {
     margin-right: 30px;
 }
 
-.maybe3{
-    grid-area: maybe3;
+.probs3{
+    grid-area: probs3;
     background: url('images/65665161741__E971CFDE-ED3A-425A-B0A8-9ED43611C83C.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
 }
 
-.maybe4{
-    grid-area: maybe4;
+.probs4{
+    grid-area: probs4;
     background: url('images/IMG_5229.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
 }
 
-.text5{
-    grid-area: text5;
+.probs5{
+    grid-area: probs5;
     display: flex;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
