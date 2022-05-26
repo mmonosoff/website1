@@ -199,7 +199,7 @@ a:visited {
 
 
 .photopic{
-    background: url('/images/flower.JPG');
+    background: url('images/flower.JPG');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
@@ -227,7 +227,7 @@ a:visited {
 
 
 .animalpic{
-    background: url('/images/poster.png');
+    background: url('images/poster.png');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
@@ -836,7 +836,7 @@ a:visited {
 
 .clay{
     grid-area: clay;
-    background: url('images/Screen Shot 2022-05-19 at 8.13.53 PM.png');
+    background: url('images/Screen Shot 2022-05-19 at 8.14.07 PM.png');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
