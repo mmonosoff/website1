@@ -394,7 +394,6 @@ a:visited {
 
 .vid{
     grid-area: vid;
-    background: url('images/engulf.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
