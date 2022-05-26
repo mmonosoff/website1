@@ -820,16 +820,15 @@ a:visited {
 
 .lnd{
     grid-area: lnd;
-    display: flex;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-    margin-left: 30px;
-    margin-right: 30px;
+    background: url('images/Screen Shot 2022-05-19 at 8.14.07 PM.png');
+    height: 400px;
+    background-size: cover;
+    border-radius: 10%;
 }
 
 .clay{
     grid-area: clay;
-    background: url('images/Screen Shot 2022-05-19 at 8.14.07 PM.png');
+    background: url('images/fish.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
@@ -846,7 +845,7 @@ a:visited {
 
 .foam{
     grid-area: foam;
-    background: url('images/Screen Shot 2022-05-19 at 8.13.53 PM.png');
+    background: url('images/fish 3.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
@@ -854,7 +853,7 @@ a:visited {
 
 .maybe3{
     grid-area: maybe3;
-    background: url('images/65665161741__E971CFDE-ED3A-425A-B0A8-9ED43611C83C.jpg');
+    background: url('images/mouse .jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
@@ -862,7 +861,7 @@ a:visited {
 
 .maybe4{
     grid-area: maybe4;
-    background: url('images/IMG_5229.jpg');
+    background: url('images/mice.jpg');
     height: 400px;
     background-size: cover;
     border-radius: 10%;
