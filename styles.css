@@ -273,7 +273,7 @@ a:visited {
 
 .about-section{
     display: grid;
-    grid-template-columns: 1fr 500px 360px 360px 1fr;
+    grid-template-columns: 1fr 480px 360px 360px 1fr;
     grid-gap: 10px;
     grid-column-gap: 100px;
     grid-template-rows: 82px 40px 1fr 20px;
@@ -307,9 +307,6 @@ a:visited {
 
 .contact{
     grid-area: contact;
-    display: flex;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
 }
 
 .footer{
@@ -324,9 +321,7 @@ a:visited {
     display: block;
 }
 
-.interester-in{
-    text-align: center;
-}
+
 
 
 
