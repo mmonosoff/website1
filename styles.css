@@ -614,7 +614,7 @@ a:visited {
     grid-template-areas: 
     ". nav nav nav ."
     ". cubes diffrnt word ."
-    ". probs2 hmmm probs1 ."
+    ". probs hmmm probs1 ."
     ". probs3 probs4 probs5 ." 
     ". footer footer footer .";
 }
@@ -664,8 +664,8 @@ a:visited {
     border-radius: 10%;
 }
 
-.probs2{
-    grid-area: probs2;
+.probs{
+    grid-area: probs;
     display: flex;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
